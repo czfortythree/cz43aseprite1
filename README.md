@@ -1,2 +1,13 @@
-# cz43ase1
-themes i created for aseprite
+hiiiiiiii!!!!!!!
+this folder contains 3 themes for aseprite!
+
+the following themes are:
+*default (green)
+*dark and mysterious (blue)
+*pretty in pink (pink)
+
+i hope you like my themes!
+
+also, if you're going to modify/recolor my theme, maybe credit me? not like i own this theme though, as most were just a plain old recolor of the default aseprite theme.
+
+anyways, smell ya later! -cz43
