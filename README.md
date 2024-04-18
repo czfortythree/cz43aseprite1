@@ -1,10 +1,14 @@
 hiiiiiiii!!!!!!!
 the folder contains 3 themes for aseprite!
+
 if you're not sure how to download/apply the themes, look at a tutorial online!
 
 the following themes are:
+
 *default (green)
+
 *dark and mysterious (blue)
+
 *pretty in pink (pink)
 
 i hope you like my themes!
