@@ -1,0 +1,31 @@
+{
+  "name": "cz43themes",
+  "displayName": "cz43's themes",
+  "description": "Themes graciously made by yours truly, cz43!",
+  "version": "1.0",
+  "author": { "name": "cz43", "email": "no email provided", "url": "no URL provided" },
+  "publisher": "cz43",
+  "license": "what's a license lmao",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "ermcz43",
+        "path": ".",
+        "variant": "default"
+      },
+      {
+        "id": "ermcz43dark",
+        "path": "./dark",
+        "variant": "dark and mysterious"
+      },
+      {
+        "id": "ermcz43pink",
+        "path": "./pink",
+        "variant": "pretty in pink"
+      }
+    ]
+  }
+}
